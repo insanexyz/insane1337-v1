@@ -1,4 +1,4 @@
-base_url = "https://zolanight.codedmaster.com"       # Your site's base URL
+base_url = "https://insane1337.xyz"                  # Your site's base URL
 title = "Insane's hub"                               # Your site's title
 description = "Insane's personal website"            # Your site's description
 compile_sass = true                                  # Enable Sass compilation
