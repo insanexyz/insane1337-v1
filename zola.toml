@@ -1,0 +1,19 @@
+base_url = "https://zolanight.codedmaster.com"       # Your site's base URL
+title = "Insane's hub"                               # Your site's title
+description = "Insane's personal website"            # Your site's description
+compile_sass = true                                  # Enable Sass compilation
+generate_feeds = true                                # Generate RSS/Atom feeds
+feed_limit = 10                                      # Number of items in feeds
+feed_filenames = ["atom.xml"]                        # Feed filenames
+taxonomies = [{ name = "tags" }]                     # Enable tags taxonomy
+
+theme = "zolanight"
+
+[markdown.highlighting]
+theme = "catppuccin-mocha" # Code highlighting theme
+
+[extra.zolanight]
+theme = "tokyonight"               # Default theme, override as shown above
+home_list_latest_blog_posts = true # Toggles latest posts on homepage
+google_analytics_id = ""           # Set a GA ID to use with analytics snippet
+ko_fi_url = ""                     # Link to your Ko-fi page for donations.
