@@ -1,8 +1,9 @@
 +++
-title = "Example posts"
+title = "Posts"
 sort_by = "date"
 template = "posts.html"
 page_template = "post.html"
 +++
 
-## Posts
+I sometimes post stuff here. Mostly computers stuff. <br>
+Also I use arch btw (just saying).
