@@ -1,8 +1,7 @@
-title = "Insane's world"
-description = "Insane's personal website"
-theme = "zap"
+title = "Zap"
+description = "A fast, ultra-minimal theme for Zola"
 
-base_url = "https://insane1337.xyz"
+base_url = "https://www.jimmyff.co.uk/zola-zap"
 
 # No SASS - CSS is inline
 compile_sass = false
@@ -34,7 +33,7 @@ anchors = "on"
 
 [extra]
 # Keywords for SEO
-keywords = "zola, theme, minimal, tui, insane, blog, cybersecurity, hacking"
+keywords = "zola, theme, minimal, tui"
 
 # Favicon (optional)
 # favicon = "/favicon.ico"

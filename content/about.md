@@ -1,7 +1,10 @@
 +++
 title = "About"
 description = "Sample description"
-taxonomies = { tags = ["stuff"] }
+template = "page.html"
+
+[extra]
+images = []
 +++
 
 Well just a Insane website. <br>
