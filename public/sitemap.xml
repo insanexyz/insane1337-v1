@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://insane1337.xyz/</loc>
+    </url>
+    <url>
+        <loc>https://insane1337.xyz/about/</loc>
+    </url>
+    <url>
+        <loc>https://insane1337.xyz/posts/</loc>
+    </url>
+    <url>
+        <loc>https://insane1337.xyz/posts/whoami/</loc>
+        <lastmod>2026-06-10</lastmod>
+    </url>
+    <url>
+        <loc>https://insane1337.xyz/search/</loc>
+    </url>
+    <url>
+        <loc>https://insane1337.xyz/tags/</loc>
+    </url>
+    <url>
+        <loc>https://insane1337.xyz/tags/info/</loc>
+    </url>
+    <url>
+        <loc>https://insane1337.xyz/tags/whoami/</loc>
+    </url>
+</urlset>

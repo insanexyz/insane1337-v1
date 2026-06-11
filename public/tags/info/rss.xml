@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+      <title>Insane&#x27;s world - info</title>
+      <link>https://insane1337.xyz</link>
+      <description>Insane&#x27;s personal website</description>
+      <generator>Zola</generator>
+      <language>en</language>
+      <atom:link href="https://insane1337.xyz/tags/info/rss.xml" rel="self" type="application/rss+xml"/>
+      <lastBuildDate>Wed, 10 Jun 2026 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>Who Am I?</title>
+          <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://insane1337.xyz/posts/whoami/</link>
+          <guid>https://insane1337.xyz/posts/whoami/</guid>
+          <description xml:base="https://insane1337.xyz/posts/whoami/">&lt;p&gt;I am Insane. I am currently learning cybersecurity.&lt;&#x2F;p&gt;
+</description>
+      </item>
+    </channel>
+</rss>

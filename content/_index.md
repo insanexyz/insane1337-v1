@@ -4,7 +4,7 @@ description = "Homepage"
 +++
 
 Hi, I am Insane. <br>
-I am cybersecurity practioner and learner
+Learning cybersecurity....
 
 ---
 
@@ -13,6 +13,7 @@ I am cybersecurity practioner and learner
 - [linkedin](https://www.linkedin.com/in/shreyanshsahax/)
 - [tryhackme](https://www.linkedin.com/in/shreyanshsahax/)
 - [discord](https://www.discord.com/users/434738865136336896/)
+- [haunt.gg]("https://haunt.gg/insane/")
 
 ---
 
