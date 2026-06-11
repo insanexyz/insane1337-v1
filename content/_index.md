@@ -3,7 +3,7 @@ title = "Welcome to Insane's hub"
 description = "Homepage"
 +++
 
-Hi, I am Insane. <br>
+Hi, I am Insane 💀. <br>
 Learning cybersecurity....
 
 ---
